@@ -109,3 +109,5 @@ sns.countplot(x="InternetService", hue="Churn", data=df)
 plt.title("Churn by Internet Service")
 plt.savefig("graphs/churn_by_internet.png")
 plt.show()
+
+df.to_csv("cleaned_customer_churn.csv", index=False)

@@ -114,3 +114,8 @@ Adarsh Pratap Singh
 Aspiring Data Analyst | Python | Data Analysis
 
 https://github.com/Adasin-gh
+
+## Tableau Dashboard
+Interactive dashboard available here:
+https://public.tableau.com/app/profile/adarsh.singh6059/viz/CustomerChurnAnalysisDashboard_17735624507950/CustomerChurnAnalysisDashboard?publish=yes
+https://public.tableau.com/app/profile/adarsh.singh6059
